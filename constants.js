@@ -6,9 +6,9 @@ const Move_down = 's';
 const Move_left = 'a';
 const Move_right = 'd';
 const someMessages = {
-    '1': 'I\'m a snake',
-    '2': 'I\'m very fast',
-    '3': 'I like to move in a pattern'
+    '1': 'Say: I\'m a snake',
+    '2': 'Say: I\'m very fast',
+    '3': 'Say: I like to move in a pattern'
 };
 
 // Exporting module
